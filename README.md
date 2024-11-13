@@ -27,4 +27,4 @@ Teléfono: +54-387-4-25-5408
 
 
 ## Rudimentos de python
-En la carpeta rudimentos se encuetran ejemplos sobre el uso de python vistos en la clase.
+En la carpeta HelloPython se encuetran ejemplos sobre el uso de python vistos en la clase.
