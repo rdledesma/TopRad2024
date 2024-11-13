@@ -25,6 +25,17 @@ Secretaría de Posgrado de la Facultad de Ciencias Exactas, U.N.Sa.
 Correo: posgrado@exa.unsa.edu.ar
 Teléfono: +54-387-4-25-5408
 
+## Requisitos de instalación
+Para poder correr los ejerciciós de este curso deberás tener instalado en tu pc:
+    - Compilador de python 3.*.*
+    - Editor de texto como, VIM, Visual Studio Code o un Entorno de Desarrollo Integrado (IDE) para python.
+    - Se puede utilizar google colab
+
 
 ## Rudimentos de python
 En la carpeta HelloPython se encuetran ejemplos sobre el uso de python vistos en la clase.
+
+
+
+
+
