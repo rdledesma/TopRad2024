@@ -26,4 +26,5 @@ Correo: posgrado@exa.unsa.edu.ar
 Teléfono: +54-387-4-25-5408
 
 
-##Rudimentos de python
+## Rudimentos de python
+En la carpeta rudimentos se encuetran ejemplos sobre el uso de python vistos en la clase.
