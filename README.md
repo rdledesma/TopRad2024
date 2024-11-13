@@ -26,4 +26,4 @@ Correo: posgrado@exa.unsa.edu.ar
 Teléfono: +54-387-4-25-5408
 
 
-Saludos cordiales,
+##Rudimentos de python
