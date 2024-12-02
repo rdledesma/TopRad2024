@@ -25,6 +25,26 @@ Secretaría de Posgrado de la Facultad de Ciencias Exactas, U.N.Sa.
 Correo: posgrado@exa.unsa.edu.ar
 Teléfono: +54-387-4-25-5408
 
+
+
+##
+Los scripts realizados en este curso están testeados en sistemas operativos basados en LINUX.
+
+No es una restricción utilizar otro SO y se brindará soporte a quienes no tengan una distribución de linux instalada en su máquina.
+
+Sin embargo recomendamos al menos contar con una máquina virtual instalada en la cual se monte un so basado en linux.
+
+Para esto se puede utilizar Virtual Box, https://www.oracle.com/ar/virtualization/technologies/vm/downloads/virtualbox-downloads.html?source=:ow:o:p:nav:mmddyyVirtualBoxHero_ar&intcmp=:ow:o:p:nav:mmddyyVirtualBoxHero_ar. Esta herramienta permitirá ejecutar un sistema operativo distinto al sistema ya instalado en su máquina.
+
+una vez instalado, por ejemplo puede descargar el SO Linux Mint https://www.linuxmint.com/download.php
+
+Se puede consultar el siguiente video instructivo:
+https://www.youtube.com/watch?v=pA933H0WRbE
+
+
+##
+
+
 ## Requisitos de instalación
 Para poder correr los ejerciciós de este curso deberás tener instalado en tu pc:
 - Compilador de python 3.*.*
