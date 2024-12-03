@@ -9,7 +9,5 @@ Vamos a seguir trabajando en el conjunto de datos que fueron proporcionados para
 
 2. Realice los gráficos de inspección visual que considere pertinentes y aplique los tres filtros de calidad de la BSRN.  Calcule los porcentajes de descarte de cada filtro y comente.
 
-3. Calcule los ángulos de altura y azimut solar (en grados decimales) y realice un gráfico del diagrama solar para el sitio.
-
 
 ***Nota: Tener un archivo de código que se pueda 'invocar' cada vez que necesite realizarse el QC puede ser sumamente útil. Por esto se recomienda implementar una Clase, para quienes trabajen en python u otro lenguaje O.O, la cual pueda tomar el set de datos de medidas y aplicar el QC. Puede consultar el recurso Clase_02 para esto***
