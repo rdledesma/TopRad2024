@@ -139,7 +139,7 @@ RMSEadaptado = (((((d.ghiAdaptada - d.ghi)**2).sum()) / len(d.ghi)) ** 0.5)
 rRMSEadaptado = RMSEadaptado/ d.ghi.mean() * 100
 
 
-#rMAD =  (abs(d.GHIcams - d.ghi).sum() / len(d.ghi)) / d.ghi.mean() * 100
+#rMAE =  (abs(d.GHIcams - d.ghi).sum() / len(d.ghi)) / d.ghi.mean() * 100
 
 
 

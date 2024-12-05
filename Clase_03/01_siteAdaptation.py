@@ -20,8 +20,10 @@ dTest = d[d.date.dt.year > 2016]
 
 plt.figure()
 plt.title("Set de datos de entrenamiento y testeo")
-plt.plot(dTrain.date, dTrain.ghi)
-plt.plot(dTest.date, dTest.ghi)
+plt.plot(dTrain.date, dTrain.ghi, label="Train")
+plt.plot(dTest.date, dTest.ghi, label="Test")
+plt.legend(True)
+plt.show()
 
 
 
