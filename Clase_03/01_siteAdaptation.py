@@ -5,11 +5,6 @@ d = pd.read_csv('Clase_03/data/measured.csv')
 d['date'] = pd.to_datetime(d.date)
 
 
-d.columns = ['date', 'sza', 'argp2', 'delta', 'mak', 'TOA', 'GHIcamscc', 'GHIcams', 'tco3',
-       'tcwv', 'AOD BC', 'AOD DU', 'AOD SS', 'AOD OR', 'AOD SU',
-       'Cloud coverage', 'GHIera', 'GHIeracc', 'msl', 'ie', 'hcc', 'd2m',
-       'ghi']
-
 plt.figure()
 plt.title("Set de datos original")
 plt.plot(d.date, d.ghi)
